@@ -4,7 +4,7 @@
     NWJ9PB | InterStellar#3423
 </p>
 <p align="center">
-I am a ICT Student from AMA University, where the "I Love You" worm author studied too, but I am a PHP developer instead of VBScript, :)
+I am a ICT Student, Chose PHP instead of other technologies (Also messing up with JS/NodeJs when needed)
 </p>
 
 <p align="center">
