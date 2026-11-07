@@ -4,14 +4,24 @@
     NWJ9PB | InterStellar#3423
 </p>
 <p align="center">
-A regular employee on a Samsung Authorized Service Center, Uses my specialty on work, less work, more slack 
+    A regular employee on a Samsung Authorized Service Center, Uses my specialty on work, less work, more slack 
 </p>
 
 <p align="center">
     
 ## Statistics
-[![Stats](https://github-stats-extended.vercel.app/api?username=NWJ9PB&show_icons=true&count_private=true&hide_border=true&icon_color=00FFFF&bg_color=000000&title_color=ffffff&text_color=bbbbbb&border_radius=0)](https://github.com/nwj9pb)
 
-[![Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=NWJ9PB&layout=compact&hide_border=true&icon_color=00FFFF&bg_color=000000&title_color=ffffff&text_color=bbbbbb&border_radius=0&hide_title=true)](https://github.com/nwj9pb)
 
+<div align="center">
+<a href="https://github-stats-extended.vercel.app/api?username=NWJ9PB">
+	  <picture>
+	    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=NWJ9PB&border_radius=25&theme=calm" />
+	  </picture>
+	</a>
+	<a href="https://github-stats-extended.vercel.app/api/top-langs?username=NWJ9PB&layout=compact&langs_count=8&card_width=320">
+	  <picture>
+	    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=NWJ9PB&layout=compact&langs_count=8&card_width=320&border_radius=25&theme=calm" />
+	  </picture>
+	</a>
+</div>
 </p>
